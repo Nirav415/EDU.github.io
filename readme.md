@@ -1,8 +1,6 @@
 ## EDU (E-learning Website)
 An educational website for students and programmers 
 
-![](pcView.png)
-
 Try this out:
 https://nirav415.github.io/EDU.github.io/
 
