@@ -21,11 +21,11 @@ body {
   width: 5px;
 }
 ::-webkit-scrollbar-thumb {
-  background: #FA4B37;
+  background: #37fa37;
   border-radius: 5px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #DF2771; 
+  background: #3027df; 
 }
 
 /*NAVIGATION BAR*/
@@ -77,13 +77,13 @@ body {
 
 .nav ul li a:hover
 {
-	color: #FA4B37;
+	color:  #37fa37;
 }
 
 .nav button
 {
 	padding: 9px 25px;
-	background: linear-gradient(to right, #FA4B37, #DF2771);
+	background: linear-gradient(to right,  #37fa37, #3027df);
 	color: #fff;
 	border: none;
 	border-radius: 5px;
@@ -113,7 +113,7 @@ body {
 	width: 300px;
 	border: none;
 	outline: none;
-	border-bottom: 2px solid #FA4B37;
+	border-bottom: 2px solid #37fa37;
 	padding: 9px;
 }
 
@@ -163,7 +163,7 @@ body {
 	border: none;
 	border-radius: 5px;
 	color: #fff;
-	background: #DF2771;
+	background: #3027df;
 	outline: none;
 	cursor: pointer;
 	box-shadow: 0 0 50px rgba(0,0,0,0.5);
@@ -203,7 +203,7 @@ body {
 .left-side li {
 	list-style-type: none;
 	cursor: pointer;
-	color: #FA4B37;
+	color:  #37fa37;
 	font-weight: 700;
 	font-size: 1.2em;
 	margin-bottom: 20px;
